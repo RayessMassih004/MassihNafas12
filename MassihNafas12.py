@@ -166,15 +166,31 @@ syed =[
 'Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-T280) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/13.2 Chrome/83.0.4103.106 Safari/537.36',
 'Mozilla/5.0 (Linux; Android 12; SAMSUNG SM-A127M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/19.0 Chrome/102.0.5005.125 Mobile Safari/537.36',]
 logo=("""\033[1;97m
-       __  __               _ _       _   _            _
-|  \/  | __ _ ___ ___(_) |__   | | | | __ _  ___| | __
-| |\/| |/ _` / __/ __| | '_ \  | |_| |/ _` |/ __| |/ /
-| |  | | (_| \__ \__ \ | | | | |  _  | (_| | (__|   <
-|_|  |_|\__,_|___/___/_|_| |_| |_| |_|\__,_|\___|_|\_\
+ __  __               _ _
+|  \/  | __ _ ___ ___(_) |__
+| |\/| |/ _` / __/ __| | '_ \
+| |  | | (_| \__ \__ \ | | | |
+|_|  |_|\__,_|___/___/_|_| |_|
+
+ _
+| |    _____   _____
+| |   / _ \ \ / / _ \
+| |__| (_) \ V /  __/
+|_____\___/ \_/ \___|
+
+_   _
+| | | | ___  _ __ _   _  __ _ _ __
+| |_| |/ _ \| '__| | | |/ _` | '_ \
+|  _  | (_) | |  | |_| | (_| | | | |
+|_| |_|\___/|_|   \__, |\__,_|_| |_|
+                  |___/
 --------------------------------------------------
-welcome to Massih hack 
-I love you♥️
-my best friend Dard
+✿ I Love you just Allah ✿
+✿ Best Teach 004 ✿
+✿ my best friend Horyan and Sunil ✿
+✿ Black Team Hack ✿
+✿ My Phone Number Is 0793772017 ✿
+✿ This Tool Is Free But Update this version has Cast ✿
 --------------------------------------------------""")
 def linex():
 	print('\033[1;37m--------------------------------------------------')
